@@ -2,4 +2,4 @@
 
 This is a little map for a DMV parking lot.
 
-Preview: https://cdn.discordapp.com/attachments/761241059409526826/825423243107893258/dmv2.png
+![image](https://user-images.githubusercontent.com/86840128/138449103-0e875bcb-9812-439c-8c72-848ccfe81440.png)
